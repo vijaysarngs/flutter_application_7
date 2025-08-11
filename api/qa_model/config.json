@@ -1,0 +1,1 @@
+{"model_kwargs": {"model": "llama3.1:8b"}, "template": "\n<SYS>\nYou are a helpful assistant capable of analyzing the political bias of news articles. \nYou will classify the article as 'Left', 'Right', or 'Center' and provide a short explanation for your decision based on the content of the article.\n</SYS>\nUser: {{input_str}}\nYou:\n"}

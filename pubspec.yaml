@@ -1,0 +1,72 @@
+name: beyondheadlines
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+  carousel_slider: ^4.2.1
+  http: ^1.1.0
+  timeago: ^3.4.0
+  html: ^0.15.0
+  share_plus: ^7.0.0
+  cached_network_image: ^3.2.3
+  # webview_flutter: ^3.0.4
+  fl_chart: ^0.69.0
+  syncfusion_flutter_gauges: ^20.4.38
+  fluttertoast: ^8.2.1
+  smooth_page_indicator: 1.2.0+3
+  flutter_secure_storage: ^8.0.0
+  ollama: ^1.0.4
+  ollama_dart: ^0.1.0
+  shared_preferences: ^2.1.1
+  email_otp: ^3.0.2
+  flutter_inappwebview: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+  
+  
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/applogo.png"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/protest.jpg
+    - assets/flags.jpg
+    - assets/capitol.jpg
+    - assets/fashion.jpg
+    - assets/business.jpg
+    - assets/politics.jpg
+    - assets/sports.jpg
+    - assets/google_icon.jpg
+    - assets/apple_icon.jpg
+    - assets/bionic_bg.png
+    - assets/bhnewlogo.png
+    - assets/banner.jpg
+    - assets/download.jpeg
+    - assets/mailpost.jpg
+    - assets/avatar1.png
+    - assets/avatar2.png
+    - assets/avatar3.png
+    - assets/applogo.png
+
